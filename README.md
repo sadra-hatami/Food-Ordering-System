@@ -19,7 +19,6 @@ A small terminal order form: pick a category, choose an item and a quantity, the
 [![Console](https://img.shields.io/badge/Interface-Console-2C3E50?style=for-the-badge)](https://en.wikipedia.org/wiki/Command-line_interface)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/license/mit)
 ![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)
-[![Stars](https://img.shields.io/github/stars/sadra-hatami/Food-Ordering-System?style=for-the-badge)](https://github.com/sadra-hatami/Food-Ordering-System/stargazers)
 
 <br>
 
